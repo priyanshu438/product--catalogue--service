@@ -1,0 +1,10 @@
+{
+  "name": "node-actions-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for GitHub Actions demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
